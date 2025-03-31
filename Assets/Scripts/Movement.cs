@@ -9,7 +9,7 @@ public class Movement : MonoBehaviour
     public float x;
     public float z;
 
-    public AudioSource steps;
+    AudioSource steps;
 
     public Animator cameraAnimator;
 
